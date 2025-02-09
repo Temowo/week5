@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:week5/screens/CategoryScreen.dart';
-import './l10n/app_localizations.dart';
+import 'screens/CategoryScreen.dart';
+import 'l10n/app_localizations.dart';
 
 void main() {
   runApp(MainApp());

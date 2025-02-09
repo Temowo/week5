@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:week5/l10n/app_localizations.dart';
-import 'package:week5/widgets/categoryItem.dart';
+import '../l10n/app_localizations.dart';
+import '../widgets/categoryItem.dart';
 import '../models/category.dart';
 
 class CategoryScreen extends StatelessWidget {

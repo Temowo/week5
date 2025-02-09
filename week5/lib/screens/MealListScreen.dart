@@ -1,9 +1,9 @@
 //import 'dart:ffi';
 
 import 'package:flutter/material.dart';
-import 'package:week5/l10n/app_localizations.dart';
-import 'package:week5/models/meals.dart';
-import 'package:week5/widgets/MealItem.dart';
+import '../l10n/app_localizations.dart';
+import '../models/meals.dart';
+import '../widgets/MealItem.dart';
 
 class MealListScreen extends StatelessWidget {
   final String categoryId;
